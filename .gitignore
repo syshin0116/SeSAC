@@ -4,6 +4,7 @@ config.ini
 *.h5
 *.pkl
 combined.csv
+어진님_바운딩박스.ipynb
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks
