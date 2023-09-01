@@ -4,8 +4,12 @@ config.ini
 *.h5
 *.pkl
 combined.csv
+
+
 어진님_바운딩박스.ipynb
 movie_clean_new5_bc_utf.csv
+movie_classification.ipynb
+movie_regression.ipynb
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks
