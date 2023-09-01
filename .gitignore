@@ -5,6 +5,7 @@ config.ini
 *.pkl
 combined.csv
 어진님_바운딩박스.ipynb
+movie_clean_new5_bc_utf.csv
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks
