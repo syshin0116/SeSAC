@@ -5,6 +5,8 @@ config.ini
 *.pkl
 combined.csv
 cifar-10-python.tar.gz
+*.pt
+*.pth
 
 어진님_바운딩박스.ipynb
 movie_clean_new5_bc_utf.csv
